@@ -1,0 +1,11 @@
+330
+2022-04-13;intervaller;kondisjon;40
+2022-04-13;squats;bein;30
+2022-04-13;hangups;armer;20
+2022-04-13;pushups;armer;20
+2022-04-12;bakkeløp;kondisjon;20
+2022-04-11;løpe;kondisjon;20
+2022-04-05;sit ups;mage;15
+2022-04-05;medisinball side til side;mage;10
+2022-04-12;90grader;statisk styrke;10
+2022-04-21;markløft;bein;15

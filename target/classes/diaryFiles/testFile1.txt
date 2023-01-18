@@ -1,0 +1,6 @@
+210
+2022-04-26;sesh1;categoryA;10
+2022-04-26;sesh2;categoryA;20
+2022-04-26;sesh3;categoryB;15
+2022-04-26;sesh4;categoryC;15
+2022-04-26;sesh5;categoryC;15
